@@ -62,9 +62,8 @@ const EmailSection = () => {
           <Link href="https://www.linkedin.com/in/shashidhar-k-0a9b55259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
             <Image src={LinkedinIcon} alt="Linkedin Icon" />
           </Link>
-           <h2 className="text-[#ADB7BE] mt-3">Email : shashixcello@gmail.com</h2>
+          <h2 className="text-[#ADB7BE] mt-3">Email : shashixcello@gmail.com</h2>
         </div>
-      </div>
       </div>
     </section>
   );
