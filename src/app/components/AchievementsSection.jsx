@@ -21,7 +21,7 @@ const achievementsList = [
   },
   {
     metric: "fresher",
-    value: "",
+    value: "0",
   },
 ];
 
