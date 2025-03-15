@@ -44,7 +44,7 @@ const projectsData = [
   {
     id: 5,
     title: "Ai-Podcast",
-    description: "An app which helps to the people need tool to create something amazing and create in form of shorts",
+    description: "An app which helps to the people need tool to create something amazing and create in form of ai powered podcast",
     image: "/images/projects/5.jpeg",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/Pluggycode/shortsapp",
