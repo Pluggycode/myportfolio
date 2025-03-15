@@ -48,7 +48,7 @@ const projectsData = [
     image: "/images/projects/5.jpeg",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/Pluggycode/shortsapp",
-    previewUrl: "https://scroll-v2gg.onrender.com/",
+    previewUrl: "https://magnapodcast.vercel.app/",
   },
 ];
 
